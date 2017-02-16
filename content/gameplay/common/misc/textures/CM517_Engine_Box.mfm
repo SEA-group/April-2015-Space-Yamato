@@ -1,0 +1,17 @@
+<CM517_Engine_Box.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/common/misc/textures/CM517_Engine_Box_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/common/misc/textures/CM517_Engine_Box_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/misc/textures/CM517_Engine_Box_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/common/textures/default_ao.tga	</Texture>
+	</property>
+</CM517_Engine_Box.mfm>

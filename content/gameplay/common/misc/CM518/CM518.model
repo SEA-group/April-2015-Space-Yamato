@@ -1,0 +1,14 @@
+<CM518.model>
+	<exporter>	1.6	</exporter>
+	<metaData>
+		<created_by>	a_ivanof	</created_by>
+		<created_on>	1426779790	</created_on>
+		<modified_by>	a_ivanof	</modified_by>
+		<modified_on>	1426779932	</modified_on>
+	</metaData>
+	<parent>	content/gameplay/common/misc/CM518/lods/CM518_lod1	</parent>
+	<nodefullVisual>	content/gameplay/common/misc/CM518/CM518	</nodefullVisual>
+	<extent>	20.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+</CM518.model>

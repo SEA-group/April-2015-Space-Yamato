@@ -1,0 +1,17 @@
+<CM500_Round_Space_Engine_gray.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/misc/textures/CM500_Round_Space_Engine_gray_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/common/misc/textures/CM500_Round_Space_Engine_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/common/misc/textures/CM500_Round_Space_Engine_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/common/textures/default_ao.tga	</Texture>
+	</property>
+</CM500_Round_Space_Engine_gray.mfm>

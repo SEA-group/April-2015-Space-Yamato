@@ -1,0 +1,17 @@
+<CM525_Wing.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	normalMap
+		<Texture>	content/gameplay/common/misc/textures/CM525_Wing_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/common/misc/textures/CM525_Wing_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/common/textures/default_ao.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/misc/textures/CM525_Wing_a.tga	</Texture>
+	</property>
+</CM525_Wing.mfm>
